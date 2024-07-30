@@ -1,5 +1,7 @@
 # Object Recognition Using Feature Detection
 
+This project is part of the BIL 565 / CSE 463 (Introduction to Computer Vision) course at Gebze Technical University.
+
 ## Overview
 
 This project involves object recognition using four feature detectors: SIFT, ORB, AKAZE, and BRISK, aiming to classify 10 objects from the RGBD dataset.
